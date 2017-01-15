@@ -1,0 +1,2 @@
+# jawaskrip
+adminmagang
